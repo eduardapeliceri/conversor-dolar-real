@@ -14,7 +14,7 @@ Projeto simples de conversor de moedas com HTML, CSS e JavaScript, feito durante
 - JavaScript
 
 ## 📎 Acesse o projeto
-🔗 [Versão no CodePen](https://codepen.io/eduardapeliceri/pen/QwWzLJL)
+🔗 [Versão no CodePen](https://codepen.io/eduardapeliceri/pen/zxYMKgr)
 
 ---
 📝 Projeto desenvolvido durante o curso de Imersão Dev - Alura para treinar lógica, estrutura e interatividade com JavaScript.
